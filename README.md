@@ -1,2 +1,2 @@
 # Chrono
-A break/scheduling tool for teams
+A break/lunch scheduling tool for teams with modular integrations
